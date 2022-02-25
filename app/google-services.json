@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "497628501613",
+    "project_id": "kopikeun-7cb09",
+    "storage_bucket": "kopikeun-7cb09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497628501613:android:fdec5a86cf5fc2bee19164",
+        "android_client_info": {
+          "package_name": "app.kopikeun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497628501613-7unpiq35pvguhtk5k2lit6le0csquc1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd-Mg6iMPRnEnAb8e0y7cF4Cf9X1qDTag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497628501613-7unpiq35pvguhtk5k2lit6le0csquc1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
